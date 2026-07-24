@@ -34,11 +34,11 @@ M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Develo
 
 # 🛠 Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+  </p>
 
 ### AI & Data Science
 
