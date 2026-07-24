@@ -67,3 +67,15 @@
 ### ✨ Quote
 
 > "Learning. Building. Researching. Growing."
+
+## 🐍 Contribution Snake
+
+![Snake](https://github.com/rachurakshith/rachurakshith/blob/output/github-contribution-grid-snake.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Rakshith;AI+%7C+Deep+Learning;Big+Data+Analytics;AWS+Cloud;Python+Developer)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Rakshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
