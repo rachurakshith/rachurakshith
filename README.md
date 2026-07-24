@@ -6,7 +6,7 @@ Hi 👋 I'm Rakshith C
 M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Developer
 </h3>
 
-<p >
+<p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Deep+Learning;Machine+Learning;Computer+Vision;AWS+Cloud;Big+Data+Analytics;Research+Enthusiast" />
 
@@ -34,7 +34,7 @@ M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Develo
 
 # 🛠 Tech Stack
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
