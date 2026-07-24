@@ -1,81 +1,140 @@
-# Hi 👋 I'm Rakshith
+<h1 align="center">
+Hi 👋 I'm Rakshith C
+</h1>
 
-🎓 M.Sc. Big Data Analytics Student
+<h3 align="center">
+M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Developer
+</h3>
 
-💻 AI & Deep Learning Enthusiast
+<p align="center">
 
-☁️  Cloud Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Deep+Learning;Machine+Learning;Computer+Vision;AWS+Cloud;Big+Data+Analytics;Research+Enthusiast" />
 
-📊 Interested in Machine Learning, Computer Vision and Big Data
-
----
-
-## 🚀 About Me
-
-- 🎓 M.Sc. Big Data Analytics
-- 🌱 Currently learning Deep Learning, Artifical inteligence
-- 🔭 Working on AI Projects
-- 📚 Interested in Research
-- ⚡ Fun Fact: I love building real-world AI projects.
+</p>
 
 ---
 
-## 🛠 Languages and Tools
+# 💫 About Me
+
+🎓 M.Sc. Big Data Analytics
+
+🤖 AI & Deep Learning Enthusiast
+
+📊 Passionate about Data Science
+
+☁️ Learning AWS Cloud
+
+🧠 Interested in Computer Vision
+
+📚 Research Paper Enthusiast
+
+🚀 Building Real World AI Projects
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+---
+
+### AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+---
+
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
----
-
-## 📊 GitHub Stats
-
-![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachurakshith&show_icons=true&theme=tokyonight)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=rachurakshith&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+# 🔥 GitHub Streak
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rachurakshith&theme=tokyonight)
 
 ---
 
-### ✨ Quote
+# 📊 Most Used Languages
 
-> "Learning. Building. Researching. Growing."
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachurakshith&layout=compact&theme=tokyonight)
 
-## 🐍 Contribution Snake
+---
 
-![Snake](https://github.com/rachurakshith/rachurakshith/blob/output/github-contribution-grid-snake.svg)
+# 🏆 GitHub Trophies
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Rakshith;AI+%7C+Deep+Learning;Big+Data+Analytics;AWS+Cloud;Python+Developer)](https://git.io/typing-svg)
+![](https://github-profile-trophy.vercel.app/?username=rachurakshith&theme=onedark)
+
+---
+
+# 📉 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rachurakshith&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+![](https://github.com/rachurakshith/rachurakshith/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=rachurakshith&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rachurakshith&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Rakshith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachurakshith&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:rachurakshith456@gmail.com)
+
+---
+
+# 💡 Current Focus
+
+- Deep Learning
+- Computer Vision
+- Federated Learning
+- AWS Cloud
+- Big Data Analytics
+- Research Publications
+
+---
+
+# ✨ Quote
+
+> "Learning never exhausts the mind. Every project is another step toward innovation."
