@@ -6,7 +6,7 @@ Hi 👋 I'm Rakshith C
 M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Developer
 </h3>
 
-<p align="center">
+<p >
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Deep+Learning;Machine+Learning;Computer+Vision;AWS+Cloud;Big+Data+Analytics;Research+Enthusiast" />
 
