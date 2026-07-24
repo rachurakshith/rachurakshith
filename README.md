@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋 I'm Rakshith
 
-<!--
-**rachurakshith/rachurakshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Big Data Analytics Student
 
-Here are some ideas to get you started:
+💻 AI & Deep Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️  Cloud Learner
+
+📊 Interested in Machine Learning, Computer Vision and Big Data
+
+---
+
+## 🚀 About Me
+
+- 🎓 M.Sc. Big Data Analytics
+- 🌱 Currently learning Deep Learning, Artifical inteligence
+- 🔭 Working on AI Projects
+- 📚 Interested in Research
+- ⚡ Fun Fact: I love building real-world AI projects.
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachurakshith&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+### ✨ Quote
+
+> "Learning. Building. Researching. Growing."
