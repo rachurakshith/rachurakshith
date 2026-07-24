@@ -36,7 +36,7 @@ M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Develo
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)![SQL] (https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
 
