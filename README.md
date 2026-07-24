@@ -70,41 +70,6 @@ M.Sc. Big Data Analytics Student | AI & Deep Learning Enthusiast | Python Develo
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rachurakshith&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rachurakshith&theme=tokyonight)
-
----
-
-# 📊 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachurakshith&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rachurakshith&theme=onedark)
-
----
-
-# 📉 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=rachurakshith&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
-
-![](https://github.com/rachurakshith/rachurakshith/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 👀 Profile Views
 
